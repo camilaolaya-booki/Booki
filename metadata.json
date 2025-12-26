@@ -1,0 +1,7 @@
+{
+  "name": "Booki - ¡Lee, Juega y Descubre!",
+  "description": "Una aplicación gamificada para niños peruanos de 6 a 10 años diseñada para mejorar la comprensión lectora a través de los paisajes y leyendas del Perú.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
